@@ -16,7 +16,7 @@
       "signature": "base64-encoded-signature"
     },
     "windows-x86_64": {
-      "url": "https://github.com/vistor-easy/desktop-app-public/releases/download/v0.2.8/Vistor.Easy_x64-setup.exe",
+      "url": "https://github.com/vistor-easy/desktop-app-public/releases/download/v0.2.8/Vistor.Easy_x64_en-US.msi",
       "signature": "base64-encoded-signature"
     }
   }
