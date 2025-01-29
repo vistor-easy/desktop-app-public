@@ -1,23 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Bug fixes and performance improvements.",
-  "pub_date": "2024-10-30T12:00:00Z",
+  "version": "0.2.10",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-01-29T05:00:27.007Z",
   "platforms": {
-    "darwin-aarch64": {
-      "url": "https://github.com/vistor-easy/desktop-app-public/releases/latest/download/app-macos-arm64.zip",
-      "signature": "base64-encoded-signature"
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/vistor-easy/desktop-app-public/releases/latest/download/app-macos-x64.zip",
-      "signature": "base64-encoded-signature"
-    },
-    "linux-x86_64": {
-      "url": "https://github.com/vistor-easy/desktop-app-public/releases/latest/download/app-linux-x64.AppImage",
-      "signature": "base64-encoded-signature"
-    },
     "windows-x86_64": {
-      "url": "https://github.com/vistor-easy/desktop-app-public/releases/latest/download/Vistor.Easy_x64_en-US.msi",
-      "signature": "base64-encoded-signature"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY3pvUTZZUmZEellQbDNEanBnK2U2WWp6VHhvOVd6MTNnNkJpcm1mSVhaS2tjVnBldEFpNGlQUUJBeWNzbWN0L3ZZeXhrMDZQZnI4SU5xa3A4SmpvbmhjcTRPVnI1a3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MTI2ODIzCWZpbGU6VmlzdG9yIEVhc3lfMC4yLjEwX3g2NF9lbi1VUy5tc2kKQldkd1FUUlZqcXJQZS9EWUJ0NnJ2QVRCVnk3NUY1VlhwNEhCaXAzVmpqU09xVzFnTzFjMjhhcXFPeEJUUEt5K3lwK0tnSEppRlFBVDBtbWVPZGRHQWc9PQo=",
+      "url": "https://github.com/vistor-easy/desktop-app-public/releases/latest/download/Vistor.Easy_x64_en-US.msi"
     }
   }
 }
